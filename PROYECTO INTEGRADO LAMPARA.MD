@@ -62,3 +62,5 @@ A diferencia de la lámpara de incandescencia cuyo funcionamiento es por una det
 Sobre el programa
 
 * ¿Qué tipo de funcionamiento tiene el LED? El led básicamente su funcionamiento poner cualquier código que vaya al Arduino y después montar cualquier circuito que tenga led, botón, resistencia y por supuesto los cables bien conectados una vez hecho esto el funcionamiento del led puede encenderse, parpadear rápido, lento o estar siempre encendido fijamente o estar apagado fijamente.
+
+[foto ciculo lampara ejemplos](https://github.com/marc125678/Proyecto-Lampara/blob/main/circulo%20lampara%20.png)[](https://github.com/marc125678/Proyecto-Lampara/blob/main/lampara%20en%20negra%20y%20blanca.jpg)
