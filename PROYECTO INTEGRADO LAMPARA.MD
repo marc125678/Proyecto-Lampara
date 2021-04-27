@@ -55,7 +55,7 @@ A diferencia de la lámpara de incandescencia cuyo funcionamiento es por una det
 *
 * ¿es un interruptor de palanca?
 * es un interruptor de palanca.
-* ¿es un potenciómetro? ¿*
+* es un potenciómetro ¿*
 * es un detector de movimiento?
 
 * ¿Dónde está la pieza dentro de toda la lámpara? La pieza dentro de toda la lámpara se refiere a la bombilla que se sitúa dentro de toda la lámpara.
@@ -66,3 +66,55 @@ Sobre el programa
 ![foto ciculo lampara ejemplos](https://github.com/marc125678/Proyecto-Lampara/blob/main/circulo%20lampara%20.png)
 
 ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/lampara%20en%20negra%20y%20blanca.jpg)
+
+Traducció al català:
+* M'agradaria fer un llum fluorescents, no conec cap llum semblant que jo vulgui imitar, de moment cap canvi vull fer així està bé per ara.
+
+* El projecte de llum consistirà en un llum led programada per Arduino i consistirà de les següents parts.
+Pantalla i forma del llum on es col·locarà el / el LED.
+Mecanisme d'apagada i encesa de la llum LED. (Interruptor)
+Peça per amagar el Arduino que es podrà desconnectar per reutilitzar-lo.
+Programació de l'Arduino
+* Sobre el tipus de bombeta
+* Quants leds va tenir el meu llum? ¿Van a ser d'un o de diversos colors? El meu lampara va tenir 3 leds, van ser de diversos colors.
+* * Sobre la pantalla i el suport
+*
+A la llum que vas a fer ¿es veu directament el led? ¿Queda tapat a través d'una pantalla semitransparent o un difusor?
+¿El llum té alguna manera en concret? (Per exemple, el llum amb forma de drac que vol fer Marc)
+De quin material i de quin color imagines tot? Podem fer alguna de les peces amb làser / fresat / impressió 3D? (Com més es pugui fabricar, millor)
+¿Es veu directament el led? ¿Queda tapat a través d'una pantalla semitransparent o un difusor? No es veu directament queda tapat a través d'una pantalla semitransparent.
+* El llum té alguna manera en concret? Si té forma circular
+* De quin material i de quin color imagines tot? Podem fer alguna de les peces amb làser / fresat / impressió 3D? (Com més es pugui fabricar, millor)
+Cable portalàmpades amb endoll l'imagino tot així
+¿Podem fer alguna de les peces amb làser / fresat / impressió 3D? (Com més es pugui fabricar, millor)
+si podria fer amb impressió 3D fresat o làser amb alguna d'aquestes 3. Depèn de l'material si resisteix millor serà millor si no resisteix molt no serà bo el material.
+Sobre la peça on estarà inserit l'Arduino.
+Això es va a unir a un Arduino
+* ¿Quant de llargs han de ser els cables que s'uneixin a l'Arduino?
+14.6 x 11 x 1 cm el cable mascle per exemple mesuraria això.
+15.* Com és aquesta peça que s'insereix? Casquets és la peça que s'insereix
+
+* De quin material és? Fiamateacero, bronze o plàstic.
+
+* ¿Podem fer alguna de les peces amb làser / fresat / impressió 3D? (Com més es pugui fabricar, millor)
+si, es podria fer amb impressió 3D, fresat i làser.
+
+* Per on entra el cable / els cables que siguin necessaris per alimentar l'Arduino? Es necessita un cable que aquest connectat als 5v i un altre cable que estigui connectat a vin 2v i llest.
+* Sobre el mecanisme
+* Quin tipus d'activació té el LED?
+El LED s'activa i es desactiva de forma automàtica, però més, es poden utilitzar també els procediments següents per activar i desactivar el LED.
+
+* ¿Què modes de funcionament té?
+A diferència del llum d'incandescència el funcionament és per una determinada tensió, el Led funcionen pel corrent que els travessa. La seva connexió a una font de tensió constant ha d'estar protegida per una resistència limitadora, veurem més endavant alguns exemples.
+
+* Com és físicament el sistema d'activació de l'led?
+* ¿És un botó?
+*
+* ¿És un interruptor de palanca?
+* És un interruptor de palanca.
+* És un potenciòmetre ¿*
+* És un detector de moviment?
+
+* On és la peça dins de tota la llum? La peça dins de tota la llum es refereix a la bombeta que se situa dins de tota la llum.
+Sobre el programa
+* Quin tipus de funcionament té el LED? El led bàsicament el seu funcionament posar qualsevol codi que vagi a l'Arduino i després muntar qualsevol circuit que tingui led, botó, resistència i per descomptat els cables ben connectats un cop fet això el funcionament de l'led pot encendre, parpellejar ràpid, lent o estar sempre encès fixament o estar apagat fixament.
