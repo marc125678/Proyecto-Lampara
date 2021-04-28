@@ -67,4 +67,4 @@ Sobre el programa
 
 ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/lampara%20en%20negra%20y%20blanca.jpg)
 
-![Lampara de Rey Leon Pelicula de Disney](https://github.com/marc125678/Proyecto-Lampara/blob/main/rey%20leon%20disney%20.jpg)
+![Lampara Bella Y la bestia](https://github.com/marc125678/Soldadura-dise-o/blob/main/bella-bestia.jpg)
