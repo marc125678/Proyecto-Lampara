@@ -68,3 +68,5 @@ Sobre el programa
 ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/lampara%20en%20negra%20y%20blanca.jpg)
 
 ![Lampara Bella Y la bestia](https://github.com/marc125678/Soldadura-dise-o/blob/main/bella-bestia.jpg)
+espero que este nuevo proyecto de la lampara pueda aprender algo util.
+Lampara de Bella y la Bestia Disney la Pelicula y me encanta la Lampara 
