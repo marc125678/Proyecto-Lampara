@@ -71,3 +71,7 @@ Sobre el programa
 
    este es el logo de ncs hecho en inkscape
 ![este esl logo de ncs](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2012-39-04.png)
+
+captura de pantalla logo ncs mal hecho intentado en inskcape
+
+![captura de pantalla logo ncs mal hecho intentado en inskcape](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2010-29-16.png)
