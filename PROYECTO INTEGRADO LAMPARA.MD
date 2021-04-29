@@ -69,4 +69,5 @@ Sobre el programa
 
 ![Lampara de Rey Leon Pelicula de Disney](https://github.com/marc125678/Proyecto-Lampara/blob/main/rey%20leon%20disney%20.jpg)
 
+   este es el logo de ncs hecho en inkscape
 ![este esl logo de ncs](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2012-39-04.png)
