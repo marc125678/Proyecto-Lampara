@@ -67,10 +67,6 @@ Sobre el programa
 
 ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/lampara%20en%20negra%20y%20blanca.jpg)
 
-![Lampara Bella Y la bestia](https://github.com/marc125678/Soldadura-dise-o/blob/main/bella-bestia.jpg)
-espero que este nuevo proyecto de la lampara pueda aprender algo util.
-Lampara de Bella y la Bestia Disney la Pelicula y me encanta la Lampara 
+![Lampara de Rey Leon Pelicula de Disney](https://github.com/marc125678/Proyecto-Lampara/blob/main/rey%20leon%20disney%20.jpg)
 
-esta foto la voy a mejorar porque el cuadrado que hay me ha salido torcido y lo voy a mejorar 
-![dibujo nocopryrightsounds](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2010-29-16.png)
-  
+![este esl logo de ncs](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2012-39-04.png)
