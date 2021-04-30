@@ -82,3 +82,5 @@ esta es la imagen de la foto no me funcionaba porque habia puesto los leds de al
 capturas de pantalla potenciometro y 3 leds.
 ![capturas de pantalla potenciometro y 3 leds](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-18.png)
 ![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-12.png)
+
+he copiado 3 veces el mismo codigo y era solo 1 vez el codigo se llama valorPotencimetro = analogRead(pinPotencimetro); lo mismo pasa con el valorIntensidad = valorPotencimetro/4; que me ha pasado lo mismo lo he copiado 3 veces el mismo codigo y lo tenia que copiar 1 sola vez.
