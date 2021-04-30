@@ -78,7 +78,7 @@ captura de pantalla logo ncs mal hecho intentado en inskcape
 
 esta es la imagen de la foto no me funcionaba porque habia puesto los leds de alrevez y varios cables estaban mal puestos
 ![foto de la lampara](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/IMG_20210430_095948.jpg)
-
+![codigo de la imagen de los 3 leds que estaban de alrevez](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2013-19-45.png)
 capturas de pantalla potenciometro y 3 leds.
 ![capturas de pantalla potenciometro y 3 leds](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-18.png)
 ![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-12.png)
