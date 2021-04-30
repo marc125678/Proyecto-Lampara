@@ -76,5 +76,5 @@ captura de pantalla logo ncs mal hecho intentado en inskcape
 
 ![captura de pantalla logo ncs mal hecho intentado en inskcape](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2010-29-16.png)
 
-
+esta es la imagen de la foto no me funcionaba porque habia puesto los leds de alrevez y varios cables estaban mal puestos
 ![foto de la lampara](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/IMG_20210430_095948.jpg)
