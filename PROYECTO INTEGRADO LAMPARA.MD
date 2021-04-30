@@ -75,3 +75,6 @@ Sobre el programa
 captura de pantalla logo ncs mal hecho intentado en inskcape
 
 ![captura de pantalla logo ncs mal hecho intentado en inskcape](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2010-29-16.png)
+
+
+![foto de la lampara](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/IMG_20210430_095948.jpg)
