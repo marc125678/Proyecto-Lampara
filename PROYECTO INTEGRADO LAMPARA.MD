@@ -91,6 +91,8 @@ he copiado 3 veces el mismo codigo y era solo 1 vez el codigo se llama valorPote
 caja lamapara svg
 ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20lampara.Marcsvg.svg)
 https://github.com/marc125678/Proyecto-Lampara/blob/main/proyecto_lampara.ino
+
+PIEZA FRESADO![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/796435ce818f1c1f82a3b558a9009a3bc37408f5/PIEZA%20.svg)
 ``` C++
 
 
