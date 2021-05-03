@@ -88,6 +88,8 @@ capturas de pantalla potenciometro y 3 leds.
 
 he copiado 3 veces el mismo codigo y era solo 1 vez el codigo se llama valorPotencimetro = analogRead(pinPotencimetro); lo mismo pasa con el valorIntensidad = valorPotencimetro/4; que me ha pasado lo mismo lo he copiado 3 veces el mismo codigo y lo tenia que copiar 1 sola vez.
 
+caja lamapara svg
+![](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20lampara.Marcsvg.svg)
 https://github.com/marc125678/Proyecto-Lampara/blob/main/proyecto_lampara.ino
 ``` C++
 
