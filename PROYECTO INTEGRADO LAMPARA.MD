@@ -94,7 +94,7 @@ https://github.com/marc125678/Proyecto-Lampara/blob/main/proyecto_lampara.ino
 
 PIEZA FRESADO![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/796435ce818f1c1f82a3b558a9009a3bc37408f5/PIEZA%20.svg)
 
-caja con agujeros![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-05-04%2009-10-17.png)
+
 ``` C++
 
 
