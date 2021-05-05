@@ -76,8 +76,7 @@ captura de pantalla logo ncs mal hecho intentado en inskcape
 
 ![captura de pantalla logo ncs mal hecho intentado en inskcape](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-29%2010-29-16.png)
 
-logotipo imagen svg ncs
-![](https://github.com/marc125678/Proyecto-Lampara/blob/main/NoCopyrightSounds_logo_black-white.png%20Marc.svg)
+
 esta es la imagen de la foto no me funcionaba porque habia puesto los leds de alrevez y varios cables estaban mal puestos
 ![foto de la lampara](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/IMG_20210430_095948.jpg)
 este es el codigo de la imagen de arriba que los 3 leds que tenia alrevez , que la imagen sale un libro o sea la anterior imagen.
