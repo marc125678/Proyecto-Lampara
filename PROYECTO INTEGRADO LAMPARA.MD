@@ -88,10 +88,10 @@ svg logo ncs ![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/5
 
 he copiado 3 veces el mismo codigo y era solo 1 vez el codigo se llama valorPotencimetro = analogRead(pinPotencimetro); lo mismo pasa con el valorIntensidad = valorPotencimetro/4; que me ha pasado lo mismo lo he copiado 3 veces el mismo codigo y lo tenia que copiar 1 sola vez.
 
-pdf logo ncs ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/Metacrilato.pdf)
+[pdf logo ncs](https://github.com/marc125678/Proyecto-Lampara/blob/main/Metacrilato.pdf)
 
 caja lamapara svg
-![](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20lampara.Marcsvg.svg)
+![caja lampara svg](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20lampara.Marcsvg.svg)
 https://github.com/marc125678/Proyecto-Lampara/blob/main/proyecto_lampara.ino
 
 
