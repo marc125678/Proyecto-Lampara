@@ -85,7 +85,7 @@ capturas de pantalla potenciometro y 3 leds.
 ![capturas de pantalla potenciometro y 3 leds](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-18.png)
 ![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/main/Captura%20de%20pantalla%20de%202021-04-30%2012-59-12.png)
 svg logo ncs ![](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/52fc0bf776493f025f35e5228e8188583da52103/Metacrilato.svg)
-
+pdf logo ncs ![](https://github.com/marc125678/Proyecto-Lampara/blob/main/Metacrilato.pdf)
 he copiado 3 veces el mismo codigo y era solo 1 vez el codigo se llama valorPotencimetro = analogRead(pinPotencimetro); lo mismo pasa con el valorIntensidad = valorPotencimetro/4; que me ha pasado lo mismo lo he copiado 3 veces el mismo codigo y lo tenia que copiar 1 sola vez.
 
 caja lamapara svg
