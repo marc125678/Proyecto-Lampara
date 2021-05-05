@@ -94,8 +94,9 @@ caja lamapara svg
 ![caja lampara svg](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20lampara.Marcsvg.svg)
 https://github.com/marc125678/Proyecto-Lampara/blob/main/proyecto_lampara.ino
 
+[caja dia 6 pdf](https://github.com/marc125678/Proyecto-Lampara/blob/main/caja%20dia%206.pdf)
 
-
+[caja dia 6 svg](https://raw.githubusercontent.com/marc125678/Proyecto-Lampara/97d405ac2847a5a19a4941e02e8678fb388e1e21/caja%20dia%206.svg)
 cuanto mide de alto? mide 120 de alto 
 cuanto mide de ancho? y mide 40 de ancho 
 
